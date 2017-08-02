@@ -1,0 +1,2 @@
+if any one commited the code,it build will automatically run
+-when you select for execute concurrent builds
