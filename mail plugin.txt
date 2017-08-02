@@ -1,0 +1,7 @@
+smtp server:smtp.gmail.com
+username:abc@gmail.com
+password:*******
+use ssl:correct
+SMTP Port:465
+Reply to address:noreply@gmail.com
+char set:UTF-8
